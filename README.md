@@ -4,6 +4,8 @@ I'm Gopal Othayoth, a 19-year-old web developer. Check out [my website](https://
 
 Check out my most recent projects:
 
+- **[NEW]** QR Gen, a no-nonsense QR code generator with templates for formats such as contact cards and Wi-Fi networks: <https://qr.endl.site/>
+
 - GopalOS, a webtop with a JSON-based filesystem: <https://cerebraldatabank.neocities.org/gopalos.html>
 
 - Liberty Park Homeowner's Association Website: <https://libertyparkhoa.endl.site/>
