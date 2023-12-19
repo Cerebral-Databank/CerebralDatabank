@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Gopal Othayoth, a 19-year-old web developer. Check out [my website](https://cerebraldatabank.neocities.org/)!
+I'm Gopal Othayoth, a 20-year-old web developer. Check out [my website](https://cerebraldatabank.neocities.org/)!
 
 Check out my most recent projects:
 
