@@ -4,9 +4,11 @@ I'm Gopal Othayoth, a 20-year-old web developer. Check out [my website](https://
 
 Check out my most recent projects:
 
-- **[NEW]** QR Gen, a no-nonsense QR code generator with templates for formats such as contact cards and Wi-Fi networks: <https://qr.endl.site/>
+- **[NEW]** DTMF Touch-Tone Trainer, a work-in-progress game that teaches you to recognize the sounds phone keypads make: <https://qr.endl.site/>
 
-- GopalOS, a webtop with a JSON-based filesystem: <https://cerebraldatabank.neocities.org/gopalos.html>
+- QR Gen, a no-nonsense QR code generator with templates for formats such as contact cards and Wi-Fi networks: <https://qr.endl.site/>
+
+- GopalOS, a webtop with a JSON-based filesystem: <https://cerebraldatabank.neocities.org/gopalos> (or try [the unstable development version](https://cerebraldatabank.neocities.org/gopalos-unstable))
 
 - Liberty Park Homeowner's Association Website: <https://libertyparkhoa.endl.site/>
 
