@@ -4,7 +4,7 @@ I'm Gopal Othayoth, a 20-year-old web developer. Check out [my website](https://
 
 Check out my most recent projects:
 
-- **[NEW]** DTMF Touch-Tone Trainer, a work-in-progress game that teaches you to recognize the sounds phone keypads make: <https://qr.endl.site/>
+- **[NEW]** DTMF Touch-Tone Trainer, a work-in-progress game that teaches you to recognize the sounds phone keypads make: <https://cerebraldatabank.neocities.org/games/touch-tone-trainer>
 
 - QR Gen, a no-nonsense QR code generator with templates for formats such as contact cards and Wi-Fi networks: <https://qr.endl.site/>
 
