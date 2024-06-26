@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Gopal Othayoth, a 20-year-old web developer and Texas A&M Computer Science Honors student. Check out [my website](https://cerebraldatabank.neocities.org/)!
+I'm Gopal Othayoth, a 21-year-old web developer and Texas A&M Computer Science Honors student. Check out [my website](https://cerebraldatabank.neocities.org/)!
 
 Check out my most recent projects:
 
