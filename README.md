@@ -25,3 +25,5 @@ Check out my most recent projects:
 [LinkedIn](https://www.linkedin.com/in/gopal-othayoth-74164620b/) | [PGP Public Key](https://cerebraldatabank.neocities.org/cerebraldatabank_pgp.txt)
 
 [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CerebralDatabank&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CerebralDatabank&theme=dark)](https://git.io/streak-stats)
