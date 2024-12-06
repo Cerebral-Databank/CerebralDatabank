@@ -5,7 +5,7 @@ I'm Gopal Othayoth, a 21-year-old web developer and Texas A&M Computer Science H
 Check out my most recent projects:
 
 - **[NEW]** CLI Prompt Builder, a GUI web app that helps you easily make cool-looking terminal prompts (check out the example templates!):  
-  <https://cerebraldatabank.neocities.org/utilities/cli-prompt-gen>
+  <https://cerebraldatabank.neocities.org/utilities/cli-prompt-gen> 
 
 - **[NEW]** CDB Useful Unicode, a script that enables you to type fancy math equations and other Unicode things almost anywhere:  
   <https://github.com/CerebralDatabank/cdb-useful-unicode>
